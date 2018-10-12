@@ -1,0 +1,10 @@
+https://support.rstudio.com/hc/en-us/articles/200526207
+
+https://support.rstudio.com/hc/en-us/articles/200532077?version=1.1.456&mode=desktop
+
+https://resources.github.com/whitepapers/github-and-rstudio/
+
+http://r-bio.github.io/intro-git-rstudio/
+
+Done
+
