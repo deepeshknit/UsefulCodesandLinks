@@ -6,5 +6,3 @@ https://resources.github.com/whitepapers/github-and-rstudio/
 
 http://r-bio.github.io/intro-git-rstudio/
 
-Done
-
